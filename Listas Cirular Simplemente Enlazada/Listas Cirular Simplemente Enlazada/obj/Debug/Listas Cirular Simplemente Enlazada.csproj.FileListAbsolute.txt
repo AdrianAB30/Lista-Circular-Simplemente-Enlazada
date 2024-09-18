@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\Listas Cirular Simplemente Enlazada\Listas Cirular Simplemente Enlazada\bin\Debug\Listas Cirular Simplemente Enlazada.exe.config
+C:\Users\USER\OneDrive\Desktop\Listas Cirular Simplemente Enlazada\Listas Cirular Simplemente Enlazada\bin\Debug\Listas Cirular Simplemente Enlazada.exe
+C:\Users\USER\OneDrive\Desktop\Listas Cirular Simplemente Enlazada\Listas Cirular Simplemente Enlazada\bin\Debug\Listas Cirular Simplemente Enlazada.pdb
+C:\Users\USER\OneDrive\Desktop\Listas Cirular Simplemente Enlazada\Listas Cirular Simplemente Enlazada\obj\Debug\Listas Cirular Simplemente Enlazada.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Listas Cirular Simplemente Enlazada\Listas Cirular Simplemente Enlazada\obj\Debug\Listas Cirular Simplemente Enlazada.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Listas Cirular Simplemente Enlazada\Listas Cirular Simplemente Enlazada\obj\Debug\Listas Cirular Simplemente Enlazada.exe
+C:\Users\USER\OneDrive\Desktop\Listas Cirular Simplemente Enlazada\Listas Cirular Simplemente Enlazada\obj\Debug\Listas Cirular Simplemente Enlazada.pdb
